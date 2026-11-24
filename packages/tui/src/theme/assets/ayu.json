@@ -40,7 +40,7 @@
     "lightOperator": "#ED9366",
     "lightPurple": "#A37ACC",
     "lightCyan": "#55B4D4",
-    "lightBorder": "#E6E6E6",
+    "lightBorder": "#bfc5cc",
     "lightDiffAdd": "#6CBF43",
     "lightDiffDelete": "#FF7383"
   },
@@ -69,7 +69,7 @@
     "diffAddedBg": { "dark": "#20303b", "light": "#ebf5e6" },
     "diffRemovedBg": { "dark": "#37222c", "light": "#fceced" },
     "diffContextBg": { "dark": "darkPanel", "light": "lightBgPanel" },
-    "diffLineNumber": { "dark": "diffContext", "light": "lightFgMuted" },
+    "diffLineNumber": { "dark": "diffContext", "light": "#606a78" },
     "diffAddedLineNumberBg": { "dark": "#1b2b34", "light": "#e2f1db" },
     "diffRemovedLineNumberBg": { "dark": "#2d1f26", "light": "#fde3e6" },
     "markdownText": { "dark": "darkFg", "light": "lightFg" },
