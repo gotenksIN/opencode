@@ -29,7 +29,7 @@
     "lightOwlNumber": "#aa0982",
     "lightOwlOperator": "#0c969b",
     "lightOwlQuote": "#697098",
-    "lightOwlBorder": "#d9d9d9",
+    "lightOwlBorder": "#c4c4c4",
     "lightOwlBorderActive": "#7e57c2",
     "lightOwlDiffAdd": "#2aa298",
     "lightOwlDiffDelete": "#de3d3b"
@@ -109,7 +109,7 @@
     },
     "diffHunkHeader": {
       "dark": "nightOwlMuted",
-      "light": "lightOwlFgMuted"
+      "light": "lightOwlQuote"
     },
     "diffHighlightAdded": {
       "dark": "nightOwlGreen",
@@ -133,7 +133,7 @@
     },
     "diffLineNumber": {
       "dark": "#7791a6",
-      "light": "lightOwlFgMuted"
+      "light": "lightOwlQuote"
     },
     "diffAddedLineNumberBg": {
       "dark": "#0a2e1a",
