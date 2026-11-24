@@ -80,8 +80,8 @@
       "light": "lightBgPanel"
     },
     "border": {
-      "dark": "#37474f",
-      "light": "#e0e0e0"
+      "dark": "#455a64",
+      "light": "#b0bec5"
     },
     "borderActive": {
       "dark": "darkBlue",
@@ -172,8 +172,8 @@
       "light": "lightOrange"
     },
     "markdownHorizontalRule": {
-      "dark": "#37474f",
-      "light": "#e0e0e0"
+      "dark": "#455a64",
+      "light": "#b0bec5"
     },
     "markdownListItem": {
       "dark": "darkBlue",
